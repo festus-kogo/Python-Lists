@@ -13,6 +13,7 @@ In this lesson, we learned how to:
 As you go through the exercises, feel free to use `print()` to see changes when not explicitly asked to do so.
 
 Instructions
+
 1. Our friend Jiho has been so successful in both the flower and grocery business that she has decided to open a furniture store.
 
 Jiho has compiled a list of inventory items into a list called `inventory` and wants to know a few facts about it.
