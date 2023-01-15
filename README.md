@@ -9,4 +9,5 @@ In this lesson, we learned how to:
 - Select portions of a list using slicing syntax.
 - Count the number of times that an element appears in a list using the .count() method.
 - Sort a list of items using either the .sort() method or sorted() function.
+
 As you go through the exercises, feel free to use print() to see changes when not explicitly asked to do so.
