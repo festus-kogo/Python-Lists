@@ -21,3 +21,5 @@ Jiho has compiled a list of inventory items into a list called `inventory` and w
 First, how many items are in the warehouse?
 
 Save the answer to a variable called `inventory_len`.
+
+2.Select the first element in inventory. Save it to a variable called first.
